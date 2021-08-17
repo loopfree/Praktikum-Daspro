@@ -1,0 +1,4 @@
+Soal
+1. empatinteger.py	-> 100%
+2. resistor.py		-> 100%
+3. segitiga.py		-> 100%
