@@ -1,0 +1,6 @@
+Soal
+1. bujursangkar.py	-> 100%
+2. berat.py		-> 100%
+3. caricharacter.py	->  85%
+4. nilaiekstrim.py	-> 100%
+5. tabungan.py		-> 100%
