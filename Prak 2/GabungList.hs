@@ -56,8 +56,8 @@ gabungList l1 l2
 		
 masukList x l
 	|   isEmpty l = konso x l -- BASIS
-   |   (x<=(head l))= konso x l -- REKURENS
-   |   otherwise = konso (head l) (masukList x (tail l)) -- REKURENS
+   	|   (x<=(head l))= konso x l -- REKURENS
+   	|   otherwise = konso (head l) (masukList x (tail l)) -- REKURENS
 
 -- APLIKASI
 -- gabungList [1,3,0,4] [-9,-1,4]
