@@ -1,6 +1,6 @@
 Soal
 1. luastrapesium.py	-> 100%
-2. jumlahderet.py	-> 100%
-3. max3bil.py		-> 100%
+2. jumlahderet.py	  -> 100%
+3. max3bil.py		    -> 100%
 4. air.py           -> 100%
-5. segiempat.py		-> 100%
+5. segiempat.py		  -> 100%
