@@ -1,0 +1,3 @@
+Soal
+1. hello.hs 	-> 100%
+2. Plus.hs 	-> 100%
