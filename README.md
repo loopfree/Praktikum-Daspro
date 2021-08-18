@@ -2,7 +2,7 @@
 > Praktikum Dasar Pemrograman (IF1210) 
 
 ## Summary
-| Praktikum     | Nilai         |
+| Praktikum     | Nilai Akhir   |
 |:-------------:|:-------------:|
 | 0             | 100           |
 | 1             | 96.7          |
