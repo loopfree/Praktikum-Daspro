@@ -1,5 +1,5 @@
 # Praktikum Daspro
-> Praktikum Dasar Pemrograman (IF1210) 
+> Praktikum Dasar Pemrograman (IF1210) Tahun 2021
 
 ## Summary
 | Praktikum     | Nilai Akhir   |
